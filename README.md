@@ -1,2 +1,3 @@
 # Data-Analysis
-To Practice Data Analysis projects 
+This repo contains multiple projects under 
+data Analysis.
